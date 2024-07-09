@@ -1,0 +1,28 @@
+Your task is to write a Python script that does the following:
+
+1. Creates a configuration file that contains a nested dictionary structure. The configuration includes variables such as paths, file names, parameters, and data frames.
+
+2. Reads and parses the configuration file.
+
+3. Concurrently monitors specified directories for the appearance of specific files within a given time frame, logging throughout the script.
+
+   If a specified file appears, the script should:
+
+   a. Trigger a system notification.
+
+   b. Record the event (including timestamp and filename) at a designated location.
+
+Requirements:
+- Ensure the script is compatible with Windows
+
+- Provide clear documentation on how to set up and run the script, including any configuration modifications.
+
+- Implement error handling for file operations and configuration parsing.
+
+- Ensure the script can handle multiple directories and multiple target files simultaneously using multi-threading or asynchronous programming.
+
+- The monitoring should be efficient and not consume excessive system resources. Explain your optimization strategies.
+
+- Design the script to be easily extendable for future additions of monitored directories or file types.
+
+ 

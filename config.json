@@ -1,0 +1,14 @@
+{
+    "Target Directory 1":{
+        "Path": "C:\\Users\\user\\Documents\\Centerline_interview_test\\sample_1\\",
+        "File names": ["data.csv", "record.txt"],
+        "Params": [],
+        "dataframes": []
+    }, 
+    "Target Directory 2": {
+        "Path": "C:\\Users\\user\\Documents\\Centerline_interview_test\\sample_2\\",
+        "File names": ["data.csv", "record_2.txt"],
+        "Params": [],
+        "dataframes": []
+    }
+}

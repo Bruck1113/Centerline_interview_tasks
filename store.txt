@@ -1,2 +1,0 @@
-C:\Users\user\Documents\Centerline_interview_test\sample_1\record.txt
-"C:\Users\user\Documents\Centerline_interview_test\sample_1\record.txt.txt"
